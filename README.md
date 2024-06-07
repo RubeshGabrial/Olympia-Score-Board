@@ -1,8 +1,8 @@
-# MyBoard Application
+# Olympia Score Board Application
 
 ## Overview
 
-The MyBoard Application is a Spring Boot project designed to manage and track the details of various countries participating in an event, including the participants' medals and total expenses. The project utilizes MongoDB for data storage.
+The Olympia Score Board Application is a Spring Boot project designed to manage and track the details of various countries participating in an event, including the participants' medals and total expenses. The project utilizes MongoDB for data storage.
 
 ## Table of Contents
 
@@ -60,7 +60,7 @@ The attached Word document contains the JSON formats for all four methods and th
 
     ```sh
     git clone https://github.com/RubeshGabrial/myboard-application.git
-    cd myboard-application
+    cd OlympiaScoreBoard-application
     ```
 
 2. **Configure MongoDB:**
